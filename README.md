@@ -11,7 +11,11 @@ https://drive.google.com/file/d/1XGfr_ncc-QRIvq26IggUAgH7aaWaPnIW/view?usp=shari
 
 ## Credit:
 Wallpaper: https://wall.alphacoders.com/big.php?i=920069
+
 Boot Animation: https://github.com/derVedro/PlymouthTheme-Cat
+
 Display Manager: https://github.com/Darkkal44/qylock
+
 Theme: https://github.com/caelestia-dots/shell
+
 Icons: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
