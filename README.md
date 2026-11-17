@@ -1,6 +1,6 @@
 # Ubuntu-Remaster-Graphic-Design
 Download:
-https://drive.google.com/file/d/1XGfr_ncc-QRIvq26IggUAgH7aaWaPnIW/view?usp=sharing
+https://archive.org/details/ubuntu-remaster-graphic-design-24.04.5-desktop-amd64
 
 <img width="1280" height="866" alt="Screenshot_20261112_165416" src="https://github.com/user-attachments/assets/c4fcdb46-6ed1-4585-84fc-56ec5d1ca276" />
 <img width="1280" height="898" alt="Screenshot_20261112_164820" src="https://github.com/user-attachments/assets/d9e8ca8f-a419-4807-9621-44efa943f61e" />
